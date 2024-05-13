@@ -1,5 +1,10 @@
 gametitle=DragonBall Z - Budokai SLUS_205.91
 
+[Deinterlacing Patch]
+author=Josh_7774
+description=Disable Interlacing
+patch=1,EE,20155814,extended,00000000
+
 [Widescreen 16:9]
 gsaspectratio=16:9
 comment=Widescreen Hack
